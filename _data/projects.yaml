@@ -1,29 +1,31 @@
-- title: Stephen's profile
-  url: https://stephenkilby.github.io/Assessment_1_s3655839/
-  image: http://taylantatli.me/Halve/images/halve-home-image.png
-  completed: false
 
-- title: Gordon's profile
-  url: https://gbric.github.io/GithubPages-MyProfile-RMIT/
-  image: https://gbric.github.io/ScreenshotStatista.jpg
-  completed: true
 
 - title: Sajid's profile
   url: https://sajid-abdullah.github.io/A1/
-  image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
+  image: https://sajid-abdullah.github.io/A1/mypic.jpg
   completed: true
 
 - title: Mike's profile
   url: https://mezerian.github.io/SupOne/
-  image: https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
+  image: https://mezerian.github.io/SupOne/selfy.jpg
   completed: true
 
 - title: Adam's profile
   url: https://humd1nga.github.io/Assignment1/
-  image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
-  completed: false
+  image: https://humd1nga.github.io/Assignment1/ProfilePic.jpeg
+  completed: true
 
 - title: Dirk's profile
   url: https://dinommensen.github.io/assessment1.2/
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
-  completed: false
+  image: https://dinommensen.github.io/assessment1.2/dirk.png
+  completed: true
+
+- title: Stephen's profile
+  url: https://stephenkilby.github.io/Assessment_1_s3655839/
+  image:  https://stephenkilby.github.io/Assessment_1_s3655839/IMG_1792.jpg
+  completed: true
+
+- title: Gordon's profile
+  url: https://gbric.github.io/GithubPages-MyProfile-RMIT/
+  image: https://gbric.github.io/GithubPages-MyProfile-RMIT/ProfilepicRMIT.jpg
+  completed: true
