@@ -1,13 +1,13 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
+title: We are team 13
+description: Welcome to our team's site.
 url: https://wearegroup13.github.io/Halve/
-logo: halve.png                                       # Site logo
+logo: 13NumberThirteenInCircle.png                                       # Site logo
 locale: en_US
 
 # Left Block Images
 background:
-  homepage: 13NumberThirteenInCircle.png              # this image will be shown on homepage's left block
+  homepage:               # this image will be shown on homepage's left block
   post-list: images/unsplash-image-10.jpg             # this image will be shown on post list page
   default-post: images/unsplash-gallery-image-3.jpg   # this image will be shown when post's front matter doesn't specify any image
 
@@ -29,12 +29,12 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
+email:             weareteam13@outlook.com
 #google.plus:        username
 twitter:            username
 #facebook:           username
 github:             weAreGroup13
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
 #instagram:          username
@@ -52,7 +52,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
