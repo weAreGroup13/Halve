@@ -1,29 +1,29 @@
-- title: Halve Jekyll Theme
-  url: http://taylantatli.me/Halve
+- title: Stephen's profile
+  url: https://stephenkilby.github.io/Assessment_1_s3655839/
   image: http://taylantatli.me/Halve/images/halve-home-image.png
   completed: false
 
-- title: Moon Jekyll Theme
-  url: http://taylantatli.me/Moon
-  image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+- title: Gordon's profile
+  url: https://gbric.github.io/GithubPages-MyProfile-RMIT/
+  image: https://gbric.github.io/GithubPages-MyProfile-RMIT/ProfilepicRMIT.jpg
   completed: true
 
-- title: Ramme Jekyll Theme
-  url: http://taylantatli.me/Ramme
+- title: Sajid's profile
+  url: https://sajid-abdullah.github.io/A1/
   image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
   completed: true
 
-- title: Daisy Pelican Theme
-  url: http://taylantatli.me/Daisy-Pelican-Theme/
+- title: Mike's profile
+  url: https://mezerian.github.io/SupOne/
   image: https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
   completed: true
 
-- title: Block Icon Theme
-  url: https://github.com/TaylanTatli/Block-Icon-Theme
+- title: Adam's profile
+  url: https://humd1nga.github.io/Assignment1/
   image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
   completed: false
 
-- title: Start Page
-  url: http://taylantatli.me/StartPage/
+- title: Dirk's profile
+  url: https://dinommensen.github.io/assessment1.2/
   image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
   completed: false
