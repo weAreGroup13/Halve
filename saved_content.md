@@ -1,2 +1,2 @@
-#Below you find content that I have deleted from places. Just in case I need to restore something.
+To view any code for formatting view original repo. I have deleted original content in this repo.
 
