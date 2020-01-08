@@ -1,10 +1,3 @@
-
-
-- title: Sajid's profile
-  url: https://sajid-abdullah.github.io/A1/
-  image: https://sajid-abdullah.github.io/A1/mypic.jpg
-  completed: true
-
 - title: Mike's profile
   url: https://mezerian.github.io/SupOne/
   image: https://mezerian.github.io/SupOne/pages/selfy.jpg
@@ -28,4 +21,9 @@
 - title: Gordon's profile
   url: https://gbric.github.io/GithubPages-MyProfile-RMIT/
   image: https://gbric.github.io/GithubPages-MyProfile-RMIT/ProfilepicRMIT.jpg
+  completed: true
+
+- title: Sajid's profile
+  url: https://sajid-abdullah.github.io/A1/
+  image: https://sajid-abdullah.github.io/A1/mypic.jpg
   completed: true
